@@ -6,3 +6,15 @@ The emission of Greenhouse Gases (GHGs) is the main cause of climate change and 
 ![DeepBoost](DeepBoost.png)
 
 ## Reference
+@article{SIDDIQUI2025331,
+title = {Electric Vehicle charging station load forecasting with an integrated DeepBoost approach},
+journal = {Alexandria Engineering Journal},
+volume = {116},
+pages = {331-341},
+year = {2025},
+issn = {1110-0168},
+doi = {https://doi.org/10.1016/j.aej.2024.12.069},
+url = {https://www.sciencedirect.com/science/article/pii/S1110016824016673},
+author = {Joveria Siddiqui and Ubaid Ahmed and Adil Amin and Talal Alharbi and Abdulelah Alharbi and Imran Aziz and Ahsan Raza Khan and Anzar Mahmood},
+keywords = {EVs, Charging load, Integrated method, Data analytics, LSTM, CatBoost, XgBoost, Machine learning},
+}
