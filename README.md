@@ -25,22 +25,20 @@ Required libraries: <br>
 
 # Running the Code
 ## Step 1: Data Preprocessing
-Run k-mean_clustering.ipynb script to perform weather-based clustering.<br>
-Run splitting_the_clustering_data.ipynb script to separate respective clusters.<br>
+Run processing.ipynb script to perform data preprocessing for modifying the data resolution .<br>
 
 ## Step 2: Model Training and Evaluation
 
-Run the Bidirectional_LSTM.ipynb, GRU.ipynb, CatBoost.ipynb and adaboost.ipynb scripts from respective folders to train and evaluate the weather-classified CatBoost model against benchmark techniques.
+Run the model.ipynb script from Model folders to train and evaluate the DeepBoost model against benchmark techniques.
 
 ## Step 3: Visualization
-Run the bar_plot.ipynb, graph.ipynb and scatter_regression_plot.ipynb scripts to visualize the forecasting results and compare the model's performance.
+Run the da.ipynb, graph.ipynb and bar_plot.ipynb scripts to visualize the forecasting results and compare the model's performance.
 
 
 Short-term-Global-Horizontal-Irradiance-Forecasting/ <br>
-├── Datasets/                   # Folder for datasets <br>
-├── Weather Calssification/     # Folder containing scripts for data preprocessing and clustering <br>
-├── Simulation for/             # Folder containing scripts for model training and evaluation <br>
-├── Graphicall illustration     # Folder containing scripts for result visualization <br>
+├── datasets/                   # Folder for datasets <br>
+├── Models                      # Folder containing scripts for model training and evaluation <br>
+├── Data visualization          # Folder containing scripts for data and results visualization <br>
 ├── README.md                   # Project README file <br>
 
 ## Reference
